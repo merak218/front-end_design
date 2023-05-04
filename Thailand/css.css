@@ -1,0 +1,17 @@
+.footer {
+	background: rgba(68, 62, 62, 0.25);
+}
+.text-center {
+	text-align: center;
+}
+.htmleaf-header {
+	background: url(http://flagpedia.asia/data/flags/ultra/th.png)no-repeat center center;
+	-webkit-background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+	-o-background-size: 100% 100%;
+	background-size: 100% 100%;
+}
+.htmleaf-header h1 {
+	color: rgba(253, 247, 0, 0.91);
+	font-size: 64px;
+}

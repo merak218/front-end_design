@@ -1,0 +1,24 @@
+.jumbotron {
+    background: url(https://i.imgur.com/eZ4vo6W.jpg) no-repeat center center;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    color: darkred;
+}
+
+body {
+    background: #eae3d1;
+    text-align: justify;
+}
+
+.head1 {
+	background: #eae3d1;
+}
+
+a {
+	color: darkred;
+}
+.footer {
+    color: darkred;
+}

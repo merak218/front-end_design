@@ -1,0 +1,30 @@
+p {
+	text-align: justify;
+}
+
+hr {
+	width: 90%;
+	height: 1px;
+	border: none;
+	background-color: #b6b6b6;
+}
+
+
+body {
+	color: white;
+	background-color: #13111e;
+}
+
+.jumbotron {
+	background: url("https://www.love-beauty.cc/wp-content/uploads/2018/07/548458-2400x1256.jpg") no-repeat center center;
+	-webkit-background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+	-o-background-size: 100% 100%;
+	background-size: 100% 100%;
+}
+a {
+    color: white;
+}
+.footer {
+    background: rgba(68, 62, 62, 0.25);
+}

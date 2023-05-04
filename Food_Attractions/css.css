@@ -1,0 +1,18 @@
+.jumbotron {
+	background-color: #c4deca;
+}
+body {
+	background-color: #abd2b4;
+}
+footer .footer {
+	background: rgba(82, 120, 92, 0.70);
+}
+.bg-light {
+    background-color: #abd2b4 !important;
+    display: flex;
+}
+.btn-secondary {
+    background-color: #abd2b4 !important;
+    color: #000000;
+    border: hidden;
+}
